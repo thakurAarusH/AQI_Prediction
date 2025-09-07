@@ -19,4 +19,5 @@ This project predicts daily Air Quality Index (AQI) for Indian cities using Rand
 
 Click below to launch the notebook live without installation:  
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR-GITHUB-USERNAME/AQI-Prediction-India/HEAD)
+[![Binder]https://mybinder.org/v2/gh/thakurAarusH/AQI_Prediction/HEAD
+
